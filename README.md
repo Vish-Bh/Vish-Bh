@@ -64,7 +64,7 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 [AI Request Intake System](https://github.com/Vish-Bh/ai-workflow)· [Live Demo](https://ai-workflow-steel.vercel.app/)
+### 🤖 [AI Request Intake System](https://github.com/Vish-Bh/ai-workflow)  · [Live Demo](https://ai-workflow-steel.vercel.app/)
 > NestJS · MongoDB · JWT · AI API
 
 An AI-powered pipeline that auto-classifies, summarises, and prioritises user requests before database persistence. Built with a decoupled async architecture to isolate AI latency from the main request lifecycle — keeping API response times consistent under load.
