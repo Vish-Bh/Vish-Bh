@@ -98,7 +98,7 @@ A production e-commerce platform handling product catalog, inventory, and inquir
 
 <div align="center">
 
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vish-Bh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<!-- ![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vish-Bh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vish-Bh&layout=compact&theme=tokyonight&hide_border=true)
 
