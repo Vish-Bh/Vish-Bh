@@ -64,7 +64,7 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 [AI Request Intake System](https://github.com/Vish-Bh/ai-workflow)
+### 🤖 [AI Request Intake System](https://github.com/Vish-Bh/ai-workflow)· [Live Demo](https://ai-workflow-steel.vercel.app/)
 > NestJS · MongoDB · JWT · AI API
 
 An AI-powered pipeline that auto-classifies, summarises, and prioritises user requests before database persistence. Built with a decoupled async architecture to isolate AI latency from the main request lifecycle — keeping API response times consistent under load.
@@ -74,7 +74,7 @@ An AI-powered pipeline that auto-classifies, summarises, and prioritises user re
 
 ---
 
-### 🏠 [Megaplex Realty](https://github.com/Vish-Bh/megaplex-realty) · [Live Demo](https://megaplex-realty.vercel.app)
+### 🏠 [Megaplex Realty](https://github.com/Vish-Bh/Megaplex-Assignment) · [Live Demo](https://megaplex-assignment-1z6c.vercel.app/)
 > Node.js · MongoDB · JWT · React
 
 Full-stack real estate platform with secure authentication, RBAC, and a full admin panel for real-time property listing management.
